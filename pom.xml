@@ -7,7 +7,7 @@
 	<packaging>war</packaging>
 	<version>0.1.0-SNAPSHOT</version>
 	<groupId>org.example</groupId>
-	<artifactId>icsse</artifactId>
+	<artifactId>icsse_duy</artifactId>
 	
 	<parent>
 		<groupId>org.springframework.boot</groupId>
